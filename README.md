@@ -40,6 +40,7 @@ Here's an example of how to run the algorithm:
 alpha = 0.999
 main('input_file.tsp', 29)
 ```
+Input examples can be found in .pdf file.
 ## Results:
 The algorithm will display visualizations of the clusters, the best permutations within clusters, and the overall TSP solution. The total distance of the TSP solution will be printed as well.
 
