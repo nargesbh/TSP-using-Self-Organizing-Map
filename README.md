@@ -1,5 +1,6 @@
 # Traveling Salesman Problem using Self-Organizing Map 
 ![tsp gif](tsp.gif)
+
 This repository contains a Python implementation of solving the Traveling Salesman Problem (TSP) using a Self-Organizing Map (SOM). The SOM is a neural network-based algorithm used to cluster and optimize the order of visiting a set of cities in the TSP.
 
 ## Algorithm Used
